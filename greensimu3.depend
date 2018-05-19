@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1526636483 source:e:\coding\greensimu3\main.cpp
+	<iostream>
+	"src/cranium.h"
+	<iostream>
+	<cstdio>
+	<string>
+	<vector>
+
+1486333037 e:\coding\greensimu3\src\cranium.h
+	"std_includes.h"
+	"matrix.h"
+	"function.h"
+	"layer.h"
+	"network.h"
+	"optimizer.h"
+
+1486333037 e:\coding\greensimu3\src\std_includes.h
+	<assert.h>
+	<math.h>
+	<float.h>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1486333037 e:\coding\greensimu3\src\matrix.h
+	"std_includes.h"
+	<cblas.h>
+
+1486333037 e:\coding\greensimu3\src\function.h
+	"std_includes.h"
+	"matrix.h"
+
+1486333037 e:\coding\greensimu3\src\layer.h
+	"std_includes.h"
+	"matrix.h"
+	"function.h"
+
+1526629169 e:\coding\greensimu3\src\network.h
+	"std_includes.h"
+	"matrix.h"
+	"function.h"
+	"layer.h"
+
+1526632363 e:\coding\greensimu3\src\optimizer.h
+	"std_includes.h"
+	"matrix.h"
+	"function.h"
+	"layer.h"
+	"network.h"
+
